@@ -1,6 +1,7 @@
-# Opti-MPPI 批评函数代价计算器
+# SA-MPPI 批评函数代价计算器
 
-一个交互式的在线工具，用于计算和分析 Opti-MPPI (Optimized Model Predictive Path Integral) 控制器中各批评函数的代价值。
+一个交互式的在线工具，用于计算和分析 SA-MPPI (Optimized Model Predictive Path Integral) 控制器中各批评函数的代价值。
+> 持续更新中，敬请期待...
 
 ## 🌟 在线访问
 
@@ -79,7 +80,7 @@ vercel --prod
 
 ## 🔗 相关链接
 
-- [Opti-MPPI GitHub](https://github.com/Robot-Nav/OptiMPPI)
+- [SA-MPPI GitHub](https://github.com/Robot-Nav/SA-MPPI)
 - [Vercel 部署文档](https://vercel.com/docs)
 
 ## 📄 License
